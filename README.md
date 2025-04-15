@@ -8,6 +8,7 @@
 ## 📚 Overview
 
 The **Manim Math Visualization Generator** is a powerful, AI-assisted tool that bridges the gap between mathematical ideas and beautiful animations. By combining [Manim](https://www.manim.community/)—the leading engine for mathematical animations—with Google’s **Gemini AI**, you can generate professional-quality visuals from simple text descriptions.
+**NOTE**  THIS PROJECT IS CURRENTLY IN A **EXPERIMENTAL** STAGE.USE WITH CAUTION.
 
 ### Ideal for:
 - 👩‍🏫 **Teachers** explaining complex concepts visually  
